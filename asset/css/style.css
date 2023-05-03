@@ -1,0 +1,36 @@
+body {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.mix {
+    height: 100px;
+    background-color: seagreen;
+    width: 32.5%;
+    float: left;
+    margin-bottom: 3px;
+    margin-right: 3px;
+}
+
+.mixbtns {
+    margin: 50px 0px;
+    text-align: center;
+}
+
+.mixbtns a {
+    padding: 10px 15px;
+    text-decoration: none;
+    color: #fff;
+    background-color: black;
+    font-family: "Arial";
+    font-size: 11px;
+    text-transform: uppercase;
+}
+
+.mili {
+    background-color: goldenrod;
+}
+
+.sabbir {
+    background-color: red;
+}
